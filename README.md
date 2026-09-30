@@ -6,7 +6,7 @@ Um site de padaria moderno e responsivo, criado para exibir produtos, serviços 
 
 > Adicione uma captura de tela ou GIF do seu projeto aqui.
 
-![Prévia do Site de Padaria](./src/assets/preview.png)
+![Prévia do Site de Padaria](./src/assets/Promotion.png)
 
 ## 🚀 Tecnologias
 
@@ -60,13 +60,13 @@ Para executar o projeto localmente, siga estes passos.
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/Revengekaiser/padaria-test.git
+git clone https://github.com/Revengekaiser/Project_Bakery
 ```
 
 ### 2. Entre na pasta do projeto
 
 ```bash
-cd padaria-test
+cd Project_Bakery
 ```
 
 ### 3. Instale as dependências
